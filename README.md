@@ -5,6 +5,7 @@
 ## 参考示例
 [https://github.com/mailzwj/webpack-electron](https://github.com/mailzwj/webpack-electron)  
 
+[https://blog.csdn.net/vhwfr2u02q/article/details/91913091](https://blog.csdn.net/vhwfr2u02q/article/details/91913091)
 ## 学习文档
 
 - [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
@@ -17,3 +18,8 @@
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
+
+
+
+## 打包参考
+常用的打包方案一般有两种，electron-packager和electron-builder
