@@ -6,6 +6,9 @@
 [https://github.com/mailzwj/webpack-electron](https://github.com/mailzwj/webpack-electron)  
 
 [https://blog.csdn.net/vhwfr2u02q/article/details/91913091](https://blog.csdn.net/vhwfr2u02q/article/details/91913091)
+
+
+[这个示例还不错](https://www.jianshu.com/p/3b295544c78e)
 ## 学习文档
 
 - [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
